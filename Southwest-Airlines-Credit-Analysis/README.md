@@ -2,7 +2,7 @@
 
 - **Date:** June 2026  
 - **Filing Used:** FY2025 Form 10-K, Q1 2026 Form 10-Q (SEC EDGAR)  
-- **Tools:** Excel (3-tab financial model), credit memo (Word)  
+- **Tools:** Excel (3-tab financial model), credit memo (PDF)  
 - **Recommendation:** Approve with Conditions
 
 ## Methodology
