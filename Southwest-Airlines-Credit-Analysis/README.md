@@ -1,9 +1,9 @@
 ## Southwest Airlines Co. (NYSE: LUV) — Independent Credit Analysis
 
-**Date:** June 2026  
-**Filing Used:** FY2025 Form 10-K, Q1 2026 Form 10-Q (SEC EDGAR)  
-**Tools:** Excel (3-tab financial model), credit memo (Word)  
-**Recommendation:** Approve with Conditions
+- **Date:** June 2026  
+- **Filing Used:** FY2025 Form 10-K, Q1 2026 Form 10-Q (SEC EDGAR)  
+- **Tools:** Excel (3-tab financial model), credit memo (Word)  
+- **Recommendation:** Approve with Conditions
 
 ## Methodology
 - Extracted financials directly from SEC EDGAR filings
